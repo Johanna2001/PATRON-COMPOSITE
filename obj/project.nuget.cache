@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x0B7iYzIrsYCZSt37F/Qf6IB1279oslddoFqKWe34dQX2MebxTXh6TNVFa8cEi3iZkup2cAB7Du1TVUxzlF20A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\Composite\\Composite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

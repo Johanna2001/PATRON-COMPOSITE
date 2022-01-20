@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+C:\Users\LENOVO\source\repos\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+C:\Users\LENOVO\source\repos\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+C:\Users\LENOVO\source\repos\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+C:\Users\LENOVO\source\repos\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Composite\obj\Debug\netcoreapp3.1\Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+C:\Users\LENOVO\source\repos\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
+C:\Users\LENOVO\source\repos\Composite\obj\Debug\netcoreapp3.1\Composite.genruntimeconfig.cache
